@@ -14,11 +14,12 @@ can change from day to day. Wolfram Api and Wit_ai must be the same of when you 
    - ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/7172195d-ec01-4ae6-b75b-99b210afdb4c)
     
 
-   -after he is added to the channel whe just need to send him a query. the structure is:" @botname query for bot - (your question) "
-   ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/042dba4c-0107-4655-b72b-4d14830ce25e)
+   - after he is added to the channel whe just need to send him a query. the structure is:" @botname query for bot - (your question)"
+   - ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/042dba4c-0107-4655-b72b-4d14830ce25e)
+   
 
 4. Press enter and see the result:
-    ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/ce880f0f-2439-40d9-86ca-02dc1b09d264)
+  - ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/ce880f0f-2439-40d9-86ca-02dc1b09d264)
   - we can also check at the powershell terminal the question that was sent to wolfram api(value):
   - ![image](https://github.com/EricDias8/AiBot.GO/assets/89018394/96a62161-4d13-4c87-80d8-7080706f8a92)
    
